@@ -25,4 +25,4 @@
 
 * `averages3`: adds names of the activities
 
-* `averages4`: reorders the data frame by activity and then by subject number
+* `averages4`: Final tidy dataset required by assignment (reorders the `averages3` by activity and then by subject number)
